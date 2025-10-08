@@ -121,9 +121,5 @@ public class Pet {
 
     public boolean ispetLimpo() {
         return petLimpo;
-    }
-    
-    
-    
-    
+    }   
 }

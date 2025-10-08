@@ -65,15 +65,6 @@ public class Cuidado_Pet {
                 default:
                     System.out.println("Opção inválida. Tente novamente.");
             }
-
-
-
-
-        }while(opcao != 10);
-
-
-
-
-        
+        }while(opcao != 10);       
     }
 }
